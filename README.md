@@ -5,5 +5,6 @@
 - 🔭I’m currently working on [Camel Quarkus](https://camel.apache.org/camel-quarkus).
 - 🗣I sometimes speak at conferences/events. Check my [references](https://github.com/zbendhiba/conference-talks).
 - 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/) board.
+- 📝Blog : [zinebbendhiba.com](https://zinebbendhiba.com)
 - 😄Pronouns: She / Her / Hers
 - 💃Hobbies: dance

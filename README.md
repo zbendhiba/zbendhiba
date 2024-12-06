@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I’m Zineb Bendhiba, I’m Principal Software Engineer at Red Hat, where I contribute to the Apache Camel project. As we shape the future of integration within the open source community, I work with others across the developer community to drive progress, adoption, and innovation. I’m passionate about making open source integration more accessible, user-friendly, and greater for all.
+Hi, I'm Zineb Bendhiba, a Principal Software Engineer at Red Hat. I work on the Apache Camel project, making open-source integration smoother. I love using Java and Quarkus to build cool things. Open source is my jam—it's all about innovating and contributing to something bigger.
 
 Full bio : https://zinebbendhiba.com/about/

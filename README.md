@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Hi, I'm Zineb Bendhiba, a Principal Software Engineer at IBM (ex. Red Hat). I build things at the intersection of AI and Enterprise Integration. Apache Camel PMC member, Camel Quarkus maintainer. I love open source, conferences, and dancing.
+Hi, I'm Zineb Bendhiba. I love building things that solve real problems for users. Principal Software Engineer at IBM, working on Enterprise Integration. Right now I'm focused on bringing AI into the open source projects I contribute to. PMC member for Apache Camel, Camel Quarkus maintainer. Open source, conferences, and dancing.
 
 Full bio : https://zinebbendhiba.com/bio/
